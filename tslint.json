@@ -1,0 +1,15 @@
+{
+    "defaultSeverity": "error",
+    "extends": [
+        "mete-config-airbnb"
+    ],
+    "jsRules": {},
+    "rules": {
+        "eofline": false,
+        "quotemark": [
+            true,
+            "single"
+        ]
+    },
+    "rulesDirectory": []
+}
